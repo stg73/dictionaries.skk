@@ -102,3 +102,4 @@ wrong.skk
 
     ボカロ/song.skk
         曲の辞書
+        カバーを含む
