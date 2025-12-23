@@ -64,6 +64,9 @@ box-drawing-character.skk
 lisp.skk
     corvusskk用のプログラム実行変換用の辞書
 
+slang.skk
+    俗語の辞書
+
 succulents
     多肉植物に関する辞書群
 
