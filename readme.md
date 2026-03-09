@@ -8,7 +8,7 @@
 
 ### 動作環境
 
-動作確認は [CorvusSKK](https://github.com/nathancorvussolis/corvusskk) で行なっている
+動作確認は [CorvusSKK](https://github.com/nathancorvussolis/corvusskk) で行なっている。
 
 ## 各辞書の説明
 
@@ -24,7 +24,7 @@
 
   慣用句
 
-  文脈を考慮した変換ができないSKKの欠点を補うことができる
+  文脈を考慮した変換ができないSKKの欠点を補うことができる。
 
 - [box-drawing-character](box-drawing-character.skk)
 
@@ -44,9 +44,9 @@
 
   - `succulents/term.skk` 以外
 
-    https://supersabotentime.com/12578/ の [多肉植物ユーザー辞書A](https://supersabotentime.com/wp/wp-content/uploads/2022/02/2bbe09974e83aa8860c20437bee1b7d8.txt) をもとに作成
+    https://supersabotentime.com/12578/ の [多肉植物ユーザー辞書A](https://supersabotentime.com/wp/wp-content/uploads/2022/02/2bbe09974e83aa8860c20437bee1b7d8.txt) をもとに作成。
 
-    正確性はまだ不十分
+    正確性はまだ不十分。
 
   - [genus-name](succulents/genus-name.skk)
 
@@ -70,7 +70,7 @@
 
 - [wrong](wrong.skk)
 
-  "うるおぼえ" などの誤りを補正し 正しい形を示してくれる辞書 たとえば `うるおぼえ /うろ覚え;[誤]うろおぼえ/`
+  "うるおぼえ" などの誤りを補正し、正しい形を示してくれる辞書。たとえば `うるおぼえ /うろ覚え;[誤]うろおぼえ/`
 
 - [ゆる学徒系](ゆる学徒系)
 
