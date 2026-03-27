@@ -64,6 +64,10 @@
 
     用語
 
+- [vim](vim.skk)
+
+  Vimの用語
+
 - [website](website.skk)
 
   ウェブサイト
