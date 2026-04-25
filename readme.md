@@ -1,14 +1,10 @@
 ## 概要
 
-日本語入力方式SKKのための辞書群
+SKK辞書
 
 ## 仕様
 
 [specification.md](specification.md)
-
-### 動作環境
-
-動作確認は [CorvusSKK](https://github.com/nathancorvussolis/corvusskk) で行なっている。
 
 ## 各辞書の説明
 
