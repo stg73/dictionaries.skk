@@ -8,6 +8,10 @@ SKK辞書
 
 ## 各辞書の説明
 
+- [programming](programming.skk)
+
+  プログラミング関連の用語
+
 - [bamboo-copter](bamboo-copter.skk)
 
   竹とんぼ
